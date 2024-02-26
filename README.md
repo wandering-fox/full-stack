@@ -10,7 +10,7 @@ This is me, actually working towards my goals (Yay me 😎)
     1. **HTML** <img align="right" src="https://progress-bar.dev/10/">
     2. **CSS** <img align="right" src="https://progress-bar.dev/10/">
 2. Level Two: Interactive Websites
-    1. **Javascript** <img align="right" src="https://progress-bar.dev/05/>
+    1. **Javascript** <img align="right" src="https://progress-bar.dev/05/">
 3. Level Three: External Packages
     1. **NPM** <img align="right" src="https://progress-bar.dev/00/">
 4. Level Four: Working with others
