@@ -19,9 +19,12 @@ This is me, actually working towards my goals (Yay me 😎)
 
 
 ## Resources
+#### HTML/CSS
+- [How to align text - Hubspot](https://blog.hubspot.com/website/align-text-in-html#:~:text=So%2C%20the%20best%20way%20to,page%2C%20like%20.)
+- [HTML Tags Quick guide](https://www.simplilearn.com/tutorials/html-tutorial/html-tags)
+#### Misc.
 - [Roadmap.sh - Github Repetoir](https://github.com/kamranahmedse/developer-roadmap)
 - [Github Documents](https://docs.github.com/en)
 - [Markdown Formatting](https://markdown-it.github.io/)
 - [Roadmap.sh - Full Stack Developer](https://roadmap.sh/full-stack)
-- [HTML Tags Quick guide](https://www.simplilearn.com/tutorials/html-tutorial/html-tags)
 - [Rawgithack - Display html websites from github](https://raw.githack.com/)
