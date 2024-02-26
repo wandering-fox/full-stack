@@ -12,12 +12,14 @@ This is me, actually working towards my goals (Yay me 😎)
 2. Level Two: Interactive Websites
     1. **Javascript** <img align="right" src="https://progress-bar.dev/05/>
 3. Level Three: External Packages
-    1. **NPM** 
+    1. **NPM** <img align="right" src="https://progress-bar.dev/00/">
 4. Level Four: Working with others
-    1. Git
-    2. Github
+    1. **Git** <img align="right" src="https://progress-bar.dev/00/">
+    2. **Github** <img align="right" src="https://progress-bar.dev/00/">
 
 
 ## Resources
+- [Roadmap.sh - Github Repetoir](https://github.com/kamranahmedse/developer-roadmap)
+- [Github Documents](https://docs.github.com/en)
 - [Markdown Formatting](https://markdown-it.github.io/)
 - [Roadmap.sh - Full Stack Developer](https://roadmap.sh/full-stack)
