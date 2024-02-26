@@ -11,5 +11,8 @@ P{
     text-align: center;
 }
 #cat-image{
-    align-items: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
 }
