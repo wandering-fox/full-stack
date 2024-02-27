@@ -21,6 +21,11 @@ This is me, actually working towards my goals (Yay me 😎)
 ## Resources
 #### Harvard Online Courses
 - [CS50x Docs](https://cs50.readthedocs.io/)
+
+#### Pyphon
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Google Python Class](https://developers.google.com/edu/python)
+  
 #### HTML/CSS
 - [How to align text - Hubspot](https://blog.hubspot.com/website/align-text-in-html#:~:text=So%2C%20the%20best%20way%20to,page%2C%20like%20.)
 - [HTML Tags Quick guide](https://www.simplilearn.com/tutorials/html-tutorial/html-tags)
