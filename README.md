@@ -28,9 +28,13 @@ This is me, actually working towards my goals (Yay me 😎)
 #### AI/Machine Learning
 - [Google deveolpers Machine Learning Course](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 
+#### Github
+- [Managing remote repetoires](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
+- [Github Documents](https://docs.github.com/en)
+
+
 #### Misc.
 - [Roadmap.sh - Github Repetoir](https://github.com/kamranahmedse/developer-roadmap)
-- [Github Documents](https://docs.github.com/en)
 - [Markdown Formatting](https://markdown-it.github.io/)
 - [Roadmap.sh - Full Stack Developer](https://roadmap.sh/full-stack)
 - [Rawgithack - Display html websites from github](https://raw.githack.com/)
